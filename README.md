@@ -10,5 +10,5 @@
 - I <strong>LOVE</strong> to travel<br>
 - If I don't know the answer to something, I feverishly research until I find the answer<br>
 
-<img src="costa rica selfie.jpeg" alt="selfie" width="500" height="500">
+<img src="costa rica selfie.jpeg" alt="selfie" width="700" height="500" align="center">
 
