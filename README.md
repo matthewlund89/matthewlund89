@@ -10,4 +10,4 @@
 - I <strong>LOVE</strong> to travel<br>
 - If I don't know the answer to something, I feverishly research until I find the answer<br>
 
-![selfie](costa rica selfie.jpeg)
+
